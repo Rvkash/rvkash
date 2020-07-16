@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studyng on Rocket seat LaunchBase
-- 🌱 I’m currently learning about Nodejs, Reactjs, React-Native, Javascript
+- 🔭 I’m currently studyng on Rocket seat LaunchBase.
+- 🌱 I’m currently learning about Nodejs, Reactjs, React-Native, Javascript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

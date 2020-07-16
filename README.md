@@ -1,5 +1,5 @@
 ### Hello World
-- 🔭 I’m currently studyng on Rocketseat LaunchBase </br>
+- 🔭 I’m currently studying on Rocketseat LaunchBase </br>
 - 🌱 I’m currently learning about Nodejs, Reactjs, React-Native, Javascript
 <!--
 **Rvkash/rvkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

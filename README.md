@@ -1,5 +1,6 @@
-### Hello World
+### 🎉 Hello World
 ![Alt Text](https://lh6.googleusercontent.com/3JAptepbZJg5YuB3KFKkouTYQx001E7_Md_2Zb3drDGfg89ARexBkjdeZat3uUwfVENnXzCF4tdUN2pWb7ncGbSGOZu4jyVCv4xIlSyYfyBXYVswrPNfm82jtMTcPnHHpw2UnGY) </br>
+### :robot: About
  🔭 I’m currently studying on Rocketseat LaunchBase </br>
  🌱 I’m currently learning about Nodejs, Reactjs, React-Native, Javascript
  

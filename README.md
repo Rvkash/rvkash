@@ -4,7 +4,7 @@
 
 
 ### :robot: About
-studying on Rocketseat LaunchBase </br>
+studying on Rocketseat </br>
 I’m currently learning about Javascript, Nodejs, Reactjs, TypeScript, React-Native.
  
  ### :email: Contact

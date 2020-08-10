@@ -4,8 +4,8 @@
 
 
 ### :robot: About
-Studying on Rocketseat </br>
-I’m currently learning about Javascript, Nodejs, Reactjs, React-Native.
+- Studying on Rocketseat </br>
+- I’m currently learning about Javascript, Nodejs, Reactjs, React-Native.
  
  ### :email: Contact
  Email: rafael.ieel@hotmail.com</br>

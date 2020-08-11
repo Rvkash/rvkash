@@ -13,7 +13,6 @@
 
 ### 💡 Goals 2020/2021
 - Learn more technologies
-- Get a tech job
 - Helping the community
 - Create open source projects
   

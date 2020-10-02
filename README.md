@@ -17,7 +17,7 @@
 - Helping the community
 - Create open source projects
 
-### "Persistence is the shortest path to success."
+### "- Persistence is the shortest path to success."
   
  
  

@@ -10,7 +10,7 @@
 
 ### ✏ About
 - Studying on Rocketseat </br>
-- I’m currently learning about Javascript, Nodejs, Reactjs, Typescript, React-Native.
+- I’m currently learning about: Javascript, Nodejs, Reactjs, Typescript, React-Native.
 
 ### 💡 Goals 2020/2021
 - Learn more technologies

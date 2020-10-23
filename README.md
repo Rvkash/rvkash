@@ -10,7 +10,7 @@
 
 ### ✏ About
 - Passionate about technology and programming </br>
-- I’m currently learning about: Javascript, Nodejs, Reactjs, Typescript, React-Native.
+- I’m currently learning: Javascript, Nodejs, Reactjs, Typescript, React-Native.
 
 ### 💡 Goals 2020/2021
 - Learn more technologies

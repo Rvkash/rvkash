@@ -12,7 +12,7 @@
 - Passionate about technology and programming </br>
 - I’m currently learning: Javascript, Nodejs, Reactjs, Typescript, React-Native.
 
-### 💡 Goals 2020/2021
+### 💡 Goals 
 - Learn more technologies
 - Helping the community
 - Create open source projects

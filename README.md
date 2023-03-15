@@ -12,6 +12,8 @@
 - Passionate about technology and programming </br>
 - I’m currently learning: Javascript, Nodejs, Reactjs, Typescript, React-Native.
 
+- linnhares.vercel.app
+
 ### 💡 Goals 
 - Learn more technologies
 - Helping the community

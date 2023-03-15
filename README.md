@@ -12,7 +12,7 @@
 - Passionate about technology and programming </br>
 - I’m currently learning: Javascript, Nodejs, Reactjs, Typescript, React-Native.
 
-- linnhares.vercel.app
+ <a href="linnhares.vercel.app">Explore Portfolio</a>
 
 ### 💡 Goals 
 - Learn more technologies

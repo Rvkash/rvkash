@@ -1,3 +1,4 @@
+Find Me
  [![Medium Badge](https://img.shields.io/twitter/url?color=Black&label=Medium&logo=Medium&logoColor=Black&url=https%3A%2F%2Fmedium.com%2F%40rafaelinhares)](https://medium.com/@rafaelinhares)
  [![Github Badge](https://img.shields.io/twitter/url?color=Black&label=Github&logo=Github&logoColor=Black&style=social&url=https%3A%2F%2Fmedium.com%2F%40rafaelinhares)](https://github.com/rvkash)
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=Black&label=Linkedin&logo=Linkedin&logoColor=Black&style=social&url=https%3A%2F%2Fmedium.com%2F%40rafaelinhares)](https://www.linkedin.com/in/rafael-linhares-js/)
@@ -10,7 +11,6 @@
 
 ### ✏ About
 - Passionate about technology and programming </br>
-- I’m currently learning: Javascript, Nodejs, Reactjs, NestJs, NextJs, Go, Typescript, React-Native.
 
  <a href="https://linnhares.vercel.app">Explore Portfolio</a>
 

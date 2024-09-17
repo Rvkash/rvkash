@@ -12,7 +12,7 @@
 ### ✏ About
 - Passionate about technology and programming </br>
 
- <a href="https://linnhares.vercel.app">Explore Portfolio</a>
+ <a href="https://linnhares-dev.vercel.app">Explore Portfolio</a>
 
 ### 💡 Goals 
 - Learn more technologies
